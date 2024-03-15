@@ -1,6 +1,7 @@
 # Mail-system-under-Linux
 
 This is a mail system under Linux. It supports all common mail functions like sending, receiving and managing mais.
+
 The main interface is like this:
 ![image](https://github.com/software-developer-new-user/Mail-System-under-Linux/blob/main/main%20page.PNG)
 
